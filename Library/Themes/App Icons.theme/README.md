@@ -6,7 +6,7 @@ An advantage to using Anemone, is that it can automatically resize the icons for
 
 
 
-# Bundles
+# Bundles (/com.apple.springboard)
 
 This is where you theme the clock images (background, hands, and center dot). I've included examples for you to base your images off of.
 
